@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS candidates;
+DROP TABLE IF EXISTS candidate;
 DROP TABLE IF EXISTS parties;
 
 CREATE TABLE parties (
